@@ -120,11 +120,11 @@ plt.show()
 
 
 
-### LAPLACIAN EDGE DETECTOR
+### LAPLACIAN EDGE DETECTOR:
 ![output](./lap.jpg)
 
 
-### CANNY EDGE DETECTOR
+### CANNY EDGE DETECTOR:
 ![output](./can.jpg)
 
 # RESULT:
