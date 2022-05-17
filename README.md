@@ -26,6 +26,10 @@ Execute the output.
 
  
 # PROGRAM:
+~~~
+DEVELOPED BY: R.SOMEASVAR
+REGISTER NUMBER: 212221230103
+~~~
 ## Import the packages:
 ```
 import cv2
